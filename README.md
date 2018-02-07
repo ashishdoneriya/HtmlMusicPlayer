@@ -1,2 +1,1 @@
-# musicPlayer
-HTML 5 Music Player App
+# HTML5 Music Player
